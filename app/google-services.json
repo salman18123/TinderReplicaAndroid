@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "328180994318",
+    "firebase_url": "https://tinder-deda1.firebaseio.com",
+    "project_id": "tinder-deda1",
+    "storage_bucket": "tinder-deda1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328180994318:android:3beafece06fd7e59",
+        "android_client_info": {
+          "package_name": "com.salman.tinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328180994318-t5gd8rsndm5u958at5bcaett3pqeeiog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.salman.tinder",
+            "certificate_hash": "19b43c51ed17e920e76c415dad40621601633e51"
+          }
+        },
+        {
+          "client_id": "328180994318-sodqvhooia03os7iegkdm0al4h4c9ohp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB46_JqilaWy8dQsT0YOSMaZtrslD40oyM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328180994318-sodqvhooia03os7iegkdm0al4h4c9ohp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
